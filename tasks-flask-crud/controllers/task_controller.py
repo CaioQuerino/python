@@ -17,7 +17,7 @@ class TaskController:
         )
         tasks.append(new_task)
         id_task_control += 1
-        return new_task, {"message": "Task created successfully"}, 201
+        return new_task, {"message": "Task created successfully", "id": new_task.id}, 201
 
     @staticmethod
     def get_all_tasks():
