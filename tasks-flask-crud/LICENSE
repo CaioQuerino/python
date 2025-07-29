@@ -1,0 +1,14 @@
+### Recursos incluídos:
+1. **Seção de funcionalidades** - Lista clara do que a API faz
+2. **Guia de instalação** - Passo a passo para configurar o ambiente
+3. **Documentação da API** - Exemplos de request/response
+4. **Estrutura de arquivos** - Visão geral do projeto
+5. **Tecnologias** - Stack utilizada
+6. **Guia de contribuição** - Padrão para colaborações
+7. **Licença** - Informação legal
+
+Você pode personalizar com:
+- Badges do Shields.io
+- Screenshots (se tiver interface)
+- Exemplos adicionais de uso
+- Informações de deploy em produção
